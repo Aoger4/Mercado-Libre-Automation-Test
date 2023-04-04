@@ -2,7 +2,7 @@
 Cypress automation test
 
 ### Introduction
-- Install Node JS.
+- Install Node JS. It can be downloaded from your browser.
 
 - Install Cypress. You could use Visual Studio Code and type in terminal:
 
