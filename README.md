@@ -12,7 +12,7 @@ then:
 
 `$ npm install cypress --save -dev`
 
-- Download the repository and open the folfder with Visual Studio Code.
+- Download the repository and open the folder with Visual Studio Code.
 
 - Inside the folder type:
 
